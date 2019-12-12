@@ -1,0 +1,29 @@
+<table cellspacing="0" cellpadding="0" border="0" style="font-family:&quot;Times New Roman&quot;">
+	<tbody>
+		<tr>
+			<td width="100" valign="top" style="padding:0px 11px 0px 0px;vertical-align:top"><img alt="Seeds Investor" width="100" src="https://seedsinvestor.com/wp-content/themes/seeds/lib/sigs/logo-email-sig-100x100.png" style="width:100px"></td>
+			<td valign="top" style="border-left:2px solid rgb(94,133,60);vertical-align:top;border-top-color:rgb(94,133,60);border-right-color:rgb(94,133,60);border-bottom-color:rgb(94,133,60);padding:0px 0px 0px 12px">
+			<table cellspacing="0" cellpadding="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:16px;color:rgb(0,0,1)">
+				<tbody>
+					<tr>
+						<td style="padding-top:5px"><span style="font-stretch:normal;font-size:1.3em;line-height:normal;font-family:Arial,Helvetica,sans-serif;color:rgb(94,133,60)">Firstname Lastname</span></td>
+					</tr>
+					<tr>
+						<td style="padding:5px 0px"><div style="font-stretch:normal;font-size:0.9em;line-height:normal;font-family:Arial,Helvetica,sans-serif">Title</div></td>
+					</tr>
+					<tr>
+						<td><div style="font-weight:bold;font-stretch:normal;font-size:0.9em;line-height:normal;font-family:Arial,Helvetica,sans-serif">Seeds Investor</div></td>
+					</tr>
+					<tr><td style="padding:5px 0px 0px">
+						<a href="mailto:email@seedsinvestor.com" style="font-stretch:normal;font-size:0.8em;line-height:normal;font-family:Arial,Helvetica,sans-serif;color:rgb(0,0,1)" target="_blank">email@seedsinvestor.com</a>
+						</td>
+					</tr>
+					<tr>
+						<td style="padding:0px 0px 5px"><span style="font-stretch:normal;font-size:0.8em;line-height:normal;font-family:Arial,Helvetica,sans-serif"><a href="http://www.seedsinvestor.com/" style="color:rgb(0,0,1)" target="_blank">www.seedsinvestor.com</a></span></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
